@@ -20,5 +20,5 @@ curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo ap
 
 - `echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
 source ~/.bashrc`
-``
-``
+
+- then we write `roscore`, to make sure that the installation process was successful
