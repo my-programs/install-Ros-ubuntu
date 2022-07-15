@@ -6,11 +6,24 @@ here i will explain how to install ros on ubuntu
 - then we install ubuntu iso https://ubuntu.com/download/desktop/thank-you?version=22.04&architecture=amd64
 
 - then we open Vmware , and go to `File > New Virtual Machine Wizard ` 
+![image](https://user-images.githubusercontent.com/87250282/179124607-6cc06f2b-7e6e-4441-8433-65c4c46983d6.png)
+
 - select Typical 
+![image](https://user-images.githubusercontent.com/87250282/179124708-0162c196-24dc-421c-a74b-1e1f04b86596.png)
+
 - select `installer disc image file (iso)` and upload the ubunto iso file 
-- then select Name and passowrd 
+![image](https://user-images.githubusercontent.com/87250282/179124737-7c08880d-d61d-48a6-8e45-2d0410bfabe6.png)
+
+
+- then write Name and passowrd 
+![image](https://user-images.githubusercontent.com/87250282/179124877-1c700f7a-5fe6-4022-8ad8-910e3ca315a9.png)
+
+
 - and select the Location 
+
+
 - then you can change the disk size by defult it will be 20.0 .
+
 
 - after setup Ubuntu we open terminal , and for we setup ros we need to write this command on terminal
 
